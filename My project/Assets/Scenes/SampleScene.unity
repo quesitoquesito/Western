@@ -2978,6 +2978,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 450719742}
     m_Modifications:
+    - target: {fileID: 6966335048573490004, guid: 6a1524416d996ea49afff2ddd19326fa, type: 3}
+      propertyPath: behaviourObject
+      value: 
+      objectReference: {fileID: 1686011259}
     - target: {fileID: 7824531490125340672, guid: 6a1524416d996ea49afff2ddd19326fa, type: 3}
       propertyPath: m_Name
       value: BadGuy2 (4)
@@ -3701,6 +3705,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 450719742}
     m_Modifications:
+    - target: {fileID: 6966335048573490004, guid: 6a1524416d996ea49afff2ddd19326fa, type: 3}
+      propertyPath: behaviourObject
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7824531490125340672, guid: 6a1524416d996ea49afff2ddd19326fa, type: 3}
       propertyPath: m_Name
       value: BadGuy2
